@@ -1,0 +1,14 @@
+{
+    "LOADING": "Chargement ...",
+    "MENU": {
+        "INTERFACE": "Interface WLINK",
+        "MAQUETTE_3D": "Maquette 3D",
+        "VISITE_VIRT_EXT": "Visite virtuelle extérieure",
+        "VISITE_VIRT_INT": "Visite virtuelle intérieure",
+        "PLAN_MASSE": "Plan de masse",
+        "CYCLORAMA": "Cyclorama",
+        "VIDEOS": "Videos",
+        "GALERY": "Galerie",
+        "PLAN_3D": "Plan 3d décorés"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "LOADING": "Loading ...",
+    "MENU": {
+        "INTERFACE": "Interface WLINK",
+        "MAQUETTE_3D": "3D Model",
+        "VISITE_VIRT_EXT": "Virtual Outdoor Tour",
+        "VISITE_VIRT_INT": "Virtual Indoor Tour",
+        "PLAN_MASSE": "Site Plan",
+        "CYCLORAMA": "Cyclorama",
+        "VIDEOS": "Videos",
+        "GALERY": "Gallery",
+        "PLAN_3D": "Decorated 3D Plan"
+    }
+}
